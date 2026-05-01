@@ -69,4 +69,4 @@ Life-Expectancy-Prediction/
 ---
 
 ## 👤 Author
-Your Name
+Preeti Singh
