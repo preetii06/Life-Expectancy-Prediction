@@ -61,7 +61,6 @@ This project predicts life expectancy using machine learning by analyzing health
 Life-Expectancy-Prediction/
 │
 ├── Life_Expectancy_Prediction.ipynb
-├── report.pdf
 ├── README.md
 ├── requirements.txt
 └── data/
